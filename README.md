@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3AF3F6FA%2C100%3ADCE5F1&amp;height=210&amp;section=header&amp;text=JEONGHA+LEE&amp;fontColor=142D50&amp;fontSize=48&amp;fontAlignY=38&amp;desc=JAVA+BACKEND+DEVELOPER&amp;descSize=17&amp;descAlignY=60&amp;animation=fadeIn" width="100%" alt="JEONGHA LEE — Java Backend Developer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0%3AF3F6FA%2C100%3ADCE5F1&amp;height=210&amp;section=header&amp;text=JEONGHA+LEE&amp;fontColor=142D50&amp;fontSize=48&amp;fontAlignY=38&amp;desc=JAVA+BACKEND+DEVELOPER&amp;descSize=17&amp;descAlignY=60&amp;animation=fadeIn" width="100%" alt="JEONGHA LEE — Java Backend Developer" />
 
 <br/>
 
