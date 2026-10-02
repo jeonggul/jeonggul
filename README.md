@@ -68,6 +68,6 @@ Java/Spring 기반 웹 개발자를 목표로 학습하고 경험을 쌓고 있�
 
 | 프로젝트 | 스택 | 서비스와 담당 범위 |
 | --- | --- | --- |
-| **[MIJANG](https://github.com/jeonggul/mijang)**<br/><sub>개인 · 2026.08–2026.09</sub><br/>[상세 포트폴리오](https://github.com/jeonggul/jeonggul/blob/main/projects/mijang/README.md) | Java · Spring Boot<br/>MyBatis · MySQL<br/>AWS EC2 | **미국 주식 매매 기록·투자 회고 서비스**<br/>기획부터 배포까지 단독 개발. 거래 변경 시 보유 수량 검증, 손익 계산, 실시간 시세 연동 구현 |
-| **[Knowva](https://github.com/hyunkyumlee/Acorn-E-Learning)**<br/><sub>팀 7명 · 2026.06.17–2026.07.27</sub><br/>[상세 포트폴리오](https://github.com/jeonggul/jeonggul/blob/main/projects/knowva/README.md) | Java · Spring Boot<br/>MyBatis · MySQL<br/>OAuth · HttpSession | **코딩 입문자를 위한 웹 학습 플랫폼**<br/>인증·보안·세션 관리 담당. 소셜 가입, 자동 로그인, 비밀번호 재설정과 웰컴 튜토리얼 구현 |
-| **[POPFLIX](https://github.com/Rustapex/JavaServletMVC-Project)**<br/><sub>팀 5명 · 2026.04.29–2026.05.14</sub><br/>[상세 포트폴리오](https://github.com/jeonggul/jeonggul/blob/main/projects/popflix/README.md) | Java · Servlet/JSP<br/>JDBC · Oracle | **영화 예매 및 리뷰 서비스**<br/>조장 및 예매 기능 담당. 좌석 선택과 예매 등록·조회·변경·취소, 공통 화면 통합 참여 |
+| **[MIJANG](https://github.com/jeonggul/mijang)**<br/><sub>개인 · 2026.08–2026.09</sub><br/>[상세 포트폴리오](https://github.com/jeonggul/mijang) | Java · Spring Boot<br/>MyBatis · MySQL<br/>AWS EC2 | **미국 주식 매매 기록·투자 회고 서비스**<br/>기획부터 배포까지 단독 개발. 거래 변경 시 보유 수량 검증, 손익 계산, 실시간 시세 연동 구현 |
+| **[Knowva](https://github.com/jeonggul/Acorn-E-Learning)**<br/><sub>팀 7명 · 2026.06.17–2026.07.27</sub><br/>[상세 포트폴리오](https://github.com/jeonggul/Acorn-E-Learning) | Java · Spring Boot<br/>MyBatis · MySQL<br/>OAuth · HttpSession | **코딩 입문자를 위한 웹 학습 플랫폼**<br/>인증·보안·세션 관리 담당. 소셜 가입, 자동 로그인, 비밀번호 재설정과 웰컴 튜토리얼 구현 |
+| **[POPFLIX](https://github.com/jeonggul/JavaServletMVC-Project)**<br/><sub>팀 5명 · 2026.04.29–2026.05.14</sub><br/>[상세 포트폴리오](https://github.com/jeonggul/JavaServletMVC-Project) | Java · Servlet/JSP<br/>JDBC · Oracle | **영화 예매 및 리뷰 서비스**<br/>조장 및 예매 기능 담당. 좌석 선택과 예매 등록·조회·변경·취소, 공통 화면 통합 참여 |
