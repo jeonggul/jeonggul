@@ -2,14 +2,20 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1400&amp;color=315B88&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=52&amp;lines=Java+%2B+Spring+Boot" alt="Java + Spring Boot" />
+</p>
+
 ## About
 
-**Java · Spring Boot 기반 백엔드 개발자 이정하입니다.**
+Java/Spring 기반 웹 백엔드 개발자를 목표로 프로젝트를 개발하고 있는 이정하입니다.
 
-- **거래 데이터 처리** — 매매 기록 변경에 따른 보유 수량 재계산과 초과 매도 검증, 주가·환율 손익 계산을 구현했습니다.
-- **회원 인증과 세션 관리** — 회원가입, Google·GitHub OAuth, 자동 로그인과 비밀번호 재설정 흐름을 구현했습니다.
-- **트랜잭션 처리** — 거래 변경과 재계산, 회원 생성, 예매·좌석 변경을 각각 하나의 작업 단위로 묶었습니다.
-- **외부 데이터 연동과 배포** — WebSocket 시세를 SSE로 전달하고, AWS EC2·Nginx 환경에서 서비스를 배포했습니다.
+- Java, Spring Boot, Servlet/JSP를 사용해 웹 애플리케이션을 개발했습니다.
+- MyBatis와 JDBC로 데이터를 처리하고, 거래 변경·회원가입·영화 예매에 트랜잭션을 적용했습니다.
+- 개인 프로젝트 MIJANG에서 매매 기록과 투자 회고, 보유 수량 검증, 손익 계산과 실시간 시세 연동을 구현했습니다.
+- 팀 프로젝트 Knowva에서는 회원가입과 소셜 로그인, 자동 로그인, 비밀번호 재설정 등 인증·보안·세션 관리를 담당했습니다.
+- POPFLIX에서는 조장으로 예매 기능을 구현하고, 공통 화면 통합과 병합 충돌 정리에 참여했습니다.
+- AWS EC2와 Nginx로 서비스를 배포하고, 배포 환경에서 발생한 DB 스키마와 OAuth 콜백 문제를 수정했습니다.
 
 <br/>
 
