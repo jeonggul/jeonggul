@@ -1,12 +1,40 @@
-# 이정하 | Java 백엔드 개발자 포트폴리오
+<div align="center">
 
-Java와 Spring Boot로 웹 서비스를 개발했습니다. 개인 프로젝트에서는 매매 기록과 손익 계산, 실시간 시세 연동을 구현하고 AWS에 배포했습니다. 팀 프로젝트에서는 회원 인증과 세션 관리, 영화 예매 기능을 담당했습니다.
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3AF3F6FA%2C100%3ADCE5F1&amp;height=210&amp;section=header&amp;text=JEONGHA+LEE&amp;fontColor=142D50&amp;fontSize=48&amp;fontAlignY=38&amp;desc=JAVA+BACKEND+DEVELOPER&amp;descSize=17&amp;descAlignY=60&amp;animation=fadeIn" width="100%" alt="JEONGHA LEE — Java Backend Developer" />
 
-[GitHub](https://github.com/jeonggul)
+# 안녕하세요, 개발자 이정하입니다
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1400&amp;color=315B88&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=52&amp;lines=Java+%2B+Spring+Boot%3BFrom+transaction+logic+to+deployment" alt="Java와 Spring Boot를 사용하는 백엔드 개발자" />
+
+거래 기록의 정확성과 사용자 인증 흐름을 고민하며 웹 서비스를 개발했습니다.<br/>
+개인 프로젝트의 기획·배포와 팀 프로젝트의 인증·예매 기능 구현을 경험했습니다.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-142D50?style=for-the-badge" alt="Java" />
+<img src="https://img.shields.io/badge/Spring%20Boot-142D50?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/MyBatis-142D50?style=for-the-badge" alt="MyBatis" />
+<img src="https://img.shields.io/badge/MySQL-142D50?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/JUnit5-142D50?style=for-the-badge&amp;logo=junit5&amp;logoColor=white" alt="JUnit5" />
+<img src="https://img.shields.io/badge/Git-142D50?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/AWS%20EC2-142D50?style=for-the-badge" alt="AWS EC2" />
+<img src="https://img.shields.io/badge/Nginx-142D50?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx" />
+
+<br/><br/>
+
+<a href="https://github.com/jeonggul/jeonggul#대표-프로젝트">대표 프로젝트</a> · <a href="https://github.com/jeonggul/jeonggul#기술과-사용-경험">기술과 사용 경험</a>
+
+</div>
+
+<br/>
 
 ## 대표 프로젝트
 
 ### 01. MIJANG
+
+<p align="center"><img src="https://raw.githubusercontent.com/jeonggul/jeonggul/main/assets/mijang-dashboard.png" width="760" alt="MIJANG 서비스 화면" /></p>
+
+<sub>화면 금액은 시연 데이터입니다.</sub>
 
 **미국 주식 매매 기록과 투자 회고 서비스**  
 2026.08–2026.09 · 개인 프로젝트
@@ -21,7 +49,13 @@ Java와 Spring Boot로 웹 서비스를 개발했습니다. 개인 프로젝트�
 
 [상세 포트폴리오](https://github.com/jeonggul/jeonggul/blob/main/projects/mijang/README.md) · [소스 코드](https://github.com/jeonggul/mijang)
 
+<br/>
+
+---
+
 ### 02. Knowva
+
+<p align="center"><img src="https://raw.githubusercontent.com/jeonggul/jeonggul/main/assets/knowva-login.png" width="580" alt="Knowva 서비스 화면" /></p>
 
 **코딩 입문자를 위한 웹 학습 플랫폼**  
 2026.06.17–2026.07.27 · 7인 팀 프로젝트
@@ -35,6 +69,10 @@ Java와 Spring Boot로 웹 서비스를 개발했습니다. 개인 프로젝트�
 **사용 기술:** Java 17, Spring Boot, Spring MVC, MyBatis, MySQL, HttpSession, OAuth, JUnit
 
 [상세 포트폴리오](https://github.com/jeonggul/jeonggul/blob/main/projects/knowva/README.md) · [팀 저장소](https://github.com/hyunkyumlee/Acorn-E-Learning)
+
+<br/>
+
+---
 
 ### 03. POPFLIX
 
