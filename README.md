@@ -33,34 +33,34 @@ Java/Spring 기반 웹 개발자를 목표로 학습하고 경험을 쌓고 있�
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-142D50?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-142D50?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-142D50?style=for-the-badge)
-![Servlet / JSP](https://img.shields.io/badge/Servlet%20%2F%20JSP-142D50?style=for-the-badge)
-![MyBatis](https://img.shields.io/badge/MyBatis-142D50?style=for-the-badge)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-142D50?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-4B8B3B?style=for-the-badge)
+![Servlet / JSP](https://img.shields.io/badge/Servlet%20%2F%20JSP-587C9C?style=for-the-badge)
+![MyBatis](https://img.shields.io/badge/MyBatis-B32624?style=for-the-badge)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-142D50?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-142D50?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-142D50?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-142D50?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-142D50?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222)
 
 ### DevOps & Cloud
 
-![Git](https://img.shields.io/badge/Git-142D50?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-142D50?style=for-the-badge&logo=github&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-142D50?style=for-the-badge)
-![Nginx](https://img.shields.io/badge/Nginx-142D50?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Test
 
-![JUnit5](https://img.shields.io/badge/JUnit5-142D50?style=for-the-badge&logo=junit5&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 <br/>
 
